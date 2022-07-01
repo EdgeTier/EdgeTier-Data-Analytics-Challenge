@@ -6,9 +6,9 @@
 
 Travel Helpers are a company which specialises in assisting people with booking extras such as car rental, hotels, dinners, and theme park passes when travelling abroad. When booking, customers will usually browse their website before making a booking through their internal booking system.
 
-In order to support any customers who encounter difficulties using the website, or on the day of their booking, Travel Helpers operate a live chat contact centre with over 200 employees (agents). Recently Travel Helpers have found it hard to keep track of what is going on in the contact centre and which agents are under performing.
+In order to support any customers who encounter difficulties using the website, or, on the day of their booking, Travel Helpers operate a live chat contact centre with over 200 employees (agents). Recently Travel Helpers have found it hard to keep track of what is going on in the contact centre and which agents are under performing.
 
-To get back on top of things Travel Helpers have asked you to query their database (described below) and report on three things:
+To get back on top of things, Travel Helpers have asked you to query their database (described below) and report on three things:
 
 1. Which agents are performing the best, and worst when it comes to the length of time it takes to handle a chat?
 
@@ -16,11 +16,11 @@ To get back on top of things Travel Helpers have asked you to query their databa
 
 3. Which agents are causing customers to recontact within 3 hours most often?
 
-Your challenge is to query the database provided using PostgreSQL and/or Python to answer the three questions above and present your findings in a way someone with a limited knowledge of data would understand.
+Your challenge is to query the database provided using PostgreSQL and/or Python (or another language) and to answer the three questions above, presenting your findings in a way someone with a limited knowledge of data would understand.
 
 ## Submission
 
-Please submit your queries/code along with any supporting documentation describing your findings via email to shane@edgetier.com and paul.minogue@edgetier.com.
+Please submit your queries/code along with any supporting documentation describing your findings via email to shane[at]edgetier.com and paul.minogue[at]edgetier.com.
 
 If you wish to perform this task using Python, there is a sample Jupyter notebook provided in this repo (`sample_notebook.ipynb`) that demonstrates how you can access the raw data from our database using the database connection information.
 
