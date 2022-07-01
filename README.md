@@ -30,12 +30,12 @@ If you wish to perform the task using PostgreSQL, I would recommend downloading 
 
 The database provided as part of this task contains 5 tables which are summarised below:
 
-- **Interactions**: This is the base table which contains information such as start time, the agent ID, the contact reason ID about each chat over a 3 month period.
+- **interactions**: This is the base table which contains information such as start time, the agent ID, the contact reason ID about each chat over a 3 month period.
 
-- **Interaction metrics**: This table provides handling times and query resolution information for each interaction
+- **interaction_metrics**: This table provides handling times and query resolution information for each interaction
 
-- **Contact reasons**: Provides a mapping of each contact_reason_id to a contact reason
+- **contact_reasons**: Provides a mapping of each contact_reason_id to a contact reason
 
-- **Agents**: Provides first and last name information for each agent who works at the contact centre
+- **agents**: Provides first and last name information for each agent who works at the contact centre
 
-- **Customers**: Provides the email addresses for each customer who contacts the contact centre
+- **customers**: Provides the email addresses for each customer who contacts the contact centre
