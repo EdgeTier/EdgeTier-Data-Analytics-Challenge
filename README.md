@@ -20,7 +20,7 @@ Your challenge is to query the database provided using PostgreSQL and/or Python 
 
 ## Submission
 
-Please submit your queries/code along with any supporting documentation describing your findings via email to shane[at]edgetier.com and paul.minogue[at]edgetier.com.
+Please submit your queries/code along with any supporting documentation describing your findings via email to paul.minogue[at]edgetier.com.
 
 If you wish to perform this task using Python, there is a sample Jupyter notebook provided in this repo (`sample_notebook.ipynb`) that demonstrates how you can access the raw data from our database using the database connection information.
 
