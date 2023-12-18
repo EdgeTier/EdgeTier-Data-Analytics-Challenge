@@ -47,7 +47,7 @@ How would you optimse the above query and what feedback would you give Travel He
 
 ## Submission
 
-Please submit your queries/code along with any supporting documentation describing your findings via email to shane[at]edgetier.com and paul.minogue[at]edgetier.com.
+Please submit your queries/code along with any supporting documentation describing your findings via email to paul.minogue[at]edgetier.com.
 
 ## Database Description
 
