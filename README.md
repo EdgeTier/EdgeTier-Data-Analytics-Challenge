@@ -20,7 +20,7 @@ To get back on top of things, Travel Helpers have asked you to query their datab
 
 4. Which agent uses each contact reason the most (as a % of their total chats) and what is that %?
 
-5. For a week of data of your choice, how often was each agent handling more than 1 chat at a time (as a % of their overall number of chats)?
+5. For a week of data of your choice, how often was each agent handling more than 1 chat at a time (as a % of their overall number of chats)? e.g. Contact reason X was used by Agent A the most, Contact reason Y was used by Agent B the most, etc.
 
 Your challenge is to query the database provided using PostgreSQL answer the questions above, presenting your findings in a way someone with a limited knowledge of data would understand.
 
