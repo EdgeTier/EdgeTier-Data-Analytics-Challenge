@@ -18,7 +18,7 @@ To get back on top of things, Travel Helpers have asked you to query their datab
 
 3. Which agents are causing customers to recontact within 3 hours most often?
 
-4. Which agent uses each contact reason the most (as a % of their total chats) and what is that %?
+4. Which agent uses each contact reason most often as a % of their total chats, and what is that %? (e.g. Contact reason X was used by Agent A the most, Contact reason Y was used by Agent B the most, etc.)
 
 5. For a week of data of your choice, how often was each agent handling more than 1 chat at a time (as a % of their overall number of chats)?
 
